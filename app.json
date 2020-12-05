@@ -1,0 +1,7 @@
+{
+  "name": "Django Scheduled Email Sending",
+  "description": "SkillFactory HomeWork E2",
+  "image": "heroku/python",
+  "keywords": ["python", "django"]
+}
+
